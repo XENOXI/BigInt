@@ -1,0 +1,1 @@
+C:\Users\game_\source\repos\BigInt test\BigInt test\x64\Debug\BigInt test.vcxproj.CopyComplete

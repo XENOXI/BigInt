@@ -1,0 +1,17 @@
+﻿  BigInt.cpp
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(266,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(360,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(343,12): warning C4101: sup: неиспользованная локальная переменная
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(402,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(449,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(462,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(489,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(470,12): warning C4101: sup: неиспользованная локальная переменная
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(561,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(617,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(629,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(682,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\game_\source\repos\BigInt test\BigInt test\BigInt.cpp(704,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  test.cpp
+C:\Users\game_\source\repos\BigInt test\BigInt test\test.cpp(126,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+  BigInt test.vcxproj -> C:\Users\game_\source\repos\BigInt test\x64\Debug\BigInt test.exe
